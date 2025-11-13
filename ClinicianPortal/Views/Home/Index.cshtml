@@ -1,0 +1,109 @@
+﻿@model ClinicianPortal.Models.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<!-- Google Font: Lato -->
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+
+<style>
+    body {
+        font-family: 'Lato', sans-serif;
+        background-color: #f8f9fa;
+        height: 100vh;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .login-card {
+        background: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        width: 400px;
+        padding: 35px 35px 25px 35px;
+    }
+
+        .login-card h4 {
+            font-weight: 700;
+            margin-bottom: 25px;
+        }
+
+    .form-control {
+        border-radius: 5px;
+        padding: 10px;
+    }
+
+    .btn-primary {
+        background-color: #0d6efd;
+        border: none;
+        width: 100%;
+        padding: 10px;
+        font-weight: 600;
+        border-radius: 5px;
+    }
+
+        .btn-primary:hover {
+            background-color: #0b5ed7;
+        }
+
+    .forgot-password {
+        float: right;
+        font-size: 0.9rem;
+    }
+
+        .forgot-password a {
+            text-decoration: none;
+            color: #0d6efd;
+        }
+
+            .forgot-password a:hover {
+                text-decoration: underline;
+            }
+
+    .text-center a {
+        text-decoration: none;
+        color: #0d6efd;
+        font-weight: 600;
+    }
+
+        .text-center a:hover {
+            text-decoration: underline;
+        }
+
+    .bootstrap-logo {
+        display: block;
+        margin: 0 auto 20px auto;
+        width: 60px;
+    }
+</style>
+
+<div class="login-card">
+    
+    <h4 class="text-center">Clinicians Login</h4>
+
+    <form asp-action="Index" method="post">
+        <div class="mb-3">
+            <label asp-for="Username" class="form-label">Username</label>
+            <input asp-for="Username" class="form-control" placeholder="Enter your Username" />
+            <span asp-validation-for="Username" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Password" class="form-label">Password</label>
+            <a href="#" class="forgot-password">Forgot Password?</a>
+            <input asp-for="Password" type="password" class="form-control" placeholder="Enter password" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+        
+
+        <button type="submit" class="btn btn-primary">Login</button>
+    </form>
+
+    
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
