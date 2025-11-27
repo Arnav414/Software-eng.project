@@ -14,7 +14,10 @@ namespace ClinicianPortal.Controllers
             _logger = logger;
             _context = context;
         }
-
+        public enum DateEnum
+        {
+           
+        }
 
         [HttpGet]
         public IActionResult Index()
@@ -40,8 +43,6 @@ namespace ClinicianPortal.Controllers
 
             ViewBag.Message = "Login successful!";
             return RedirectToAction("Index", "Dashboard");
-
-
 
         }
 

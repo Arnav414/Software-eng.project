@@ -12,5 +12,6 @@ namespace ClinicianPortal.Models
         }
 
         public Microsoft.EntityFrameworkCore.DbSet<Clinician> Clinician { get; set; }
+        public Microsoft.EntityFrameworkCore.DbSet<Notes> Notes { get; set; }
     }
 }
