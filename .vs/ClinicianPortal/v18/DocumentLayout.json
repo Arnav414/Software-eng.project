@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\models\\entitymodel\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\models\\entitymodel\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\models\\entitymodel\\clinician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\models\\entitymodel\\clinician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\arnav_se_project\\project-clinician\\clinicianportal\\clinicianportal\\clinicianportal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\clinicianportal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Program.cs",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Program.cs",
+              "RelativeToolTip": "ClinicianPortal\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:02:49.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ClinicianPortal\\appsettings.Development.json",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\appsettings.Development.json",
+              "RelativeToolTip": "ClinicianPortal\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T14:01:01.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ClinicianPortal\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T13:58:48.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ClinicianPortal\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T13:57:23.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ClinicianPortal\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T13:56:00.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClinicianPortal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T13:55:13.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ClinicianPortal\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAmwEoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T13:52:36.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "ClinicianPortal\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T13:51:42.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Models\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Models\\SignUpModel.cs",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Models\\SignUpModel.cs",
+              "RelativeToolTip": "ClinicianPortal\\Models\\SignUpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:47:43.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Models\\LoginModel.cs",
+              "RelativeToolTip": "ClinicianPortal\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:46:55.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ClinicianPortal\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:46:23.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Models\\EntityModel\\Notes.cs",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Models\\EntityModel\\Notes.cs",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Models\\EntityModel\\Notes.cs",
+              "RelativeToolTip": "ClinicianPortal\\Models\\EntityModel\\Notes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:43:55.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Clinician.cs",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Models\\EntityModel\\Clinician.cs",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Models\\EntityModel\\Clinician.cs",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Models\\EntityModel\\Clinician.cs",
+              "RelativeToolTip": "ClinicianPortal\\Models\\EntityModel\\Clinician.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:43:14.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClinicianPortal",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\ClinicianPortal.csproj",
+              "RelativeDocumentMoniker": "ClinicianPortal\\ClinicianPortal.csproj",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\ClinicianPortal.csproj",
+              "RelativeToolTip": "ClinicianPortal\\ClinicianPortal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-08T17:14:08.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ClinicianPortal\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:11:36.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

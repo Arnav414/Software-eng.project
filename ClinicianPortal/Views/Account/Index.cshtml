@@ -1,0 +1,94 @@
+﻿@model ClinicianPortal.Models.SignUpModel
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+
+<style>
+    body {
+        background-color: #f8f9fa;
+        font-family: 'Lato', sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Center Form */
+    .signup-container {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .signup-card {
+        width: 400px;
+        background: #fff;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+
+        .signup-card h3 {
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+
+    .form-control {
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .btn-primary {
+        width: 100%;
+        padding: 10px;
+        font-weight: 600;
+        margin-top: 10px;
+    }
+</style>
+
+<div class="signup-container">
+    <div class="signup-card">
+
+        <h3 class="text-center">Sign Up</h3>
+
+        <form asp-action="SignUp" style="font-family:Lato" method="post">
+
+            <div class="mb-3">
+                <label asp-for="Username" class="form-label">Username</label>
+                <input asp-for="Username" class="form-control" placeholder="Enter username" />
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Password" class="form-label">Password</label>
+                <input asp-for="Password" type="password" class="form-control" placeholder="Enter password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label">First Name</label>
+                <input asp-for="Name" class="form-control" placeholder="Enter first name" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="LastName" class="form-label">Last Name</label>
+                <input asp-for="LastName" class="form-control" placeholder="Enter last name" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+
+            <div class="row mt-3">
+                <div class="col-6">
+                    <button type="submit" class="btn btn-success w-100">Create Account</button>
+                </div>
+
+                <div class="col-6">
+                    <button asp-controller="Login" asp-action="Index" class="btn btn-success w-100">
+                        Back
+                    </button>
+                </div>
+            </div>
+
+        </form>
+
+    </div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

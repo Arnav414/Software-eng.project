@@ -14,11 +14,6 @@ namespace ClinicianPortal.Controllers
             _logger = logger;
             _context = context;
         }
-        public enum DateEnum
-        {
-           
-        }
-
         [HttpGet]
         public IActionResult Index()
         {
@@ -39,17 +34,8 @@ namespace ClinicianPortal.Controllers
                 ModelState.AddModelError(string.Empty, "Invalid username or password");
                 return View(model);
             }
-
-
             ViewBag.Message = "Login successful!";
             return RedirectToAction("Index", "Dashboard");
-
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }

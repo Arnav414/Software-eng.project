@@ -95,6 +95,129 @@ namespace ClinicianPortal.Tests
             Assert.True(controller.ModelState.ContainsKey(string.Empty));
             Assert.Equal("Invalid username or password", controller.ModelState[string.Empty].Errors[0].ErrorMessage);
         }
+        [Fact]
+        public void Index_Post_EmptyUsername_ReturnsView()
+        {
+            var context = GetInMemoryDbContext();
+            var logger = new Mock<ILogger<HomeController>>().Object;
+            var controller = new HomeController(logger, context);
+
+            var loginModel = new LoginModel
+            {
+                Username = "",
+                Password = "password123"
+            };
+            controller.ModelState.AddModelError("Username", "Required");
+
+            var result = controller.Index(loginModel) as ViewResult;
+
+            Assert.NotNull(result);
+            Assert.False(controller.ModelState.IsValid);
+        }
+        [Fact]
+        public void Index_Post_EmptyPassword_ReturnsView()
+        {
+            var context = GetInMemoryDbContext();
+            var logger = new Mock<ILogger<HomeController>>().Object;
+            var controller = new HomeController(logger, context);
+
+            var loginModel = new LoginModel
+            {
+                Username = "admin",
+                Password = ""
+            };
+            controller.ModelState.AddModelError("Password", "Required");
+
+            var result = controller.Index(loginModel) as ViewResult;
+
+            Assert.NotNull(result);
+            Assert.False(controller.ModelState.IsValid);
+        }
+
+        [Fact]
+        public void Index_Post_EmptyForm_ReturnsView()
+        {
+            var context = GetInMemoryDbContext();
+            var logger = new Mock<ILogger<HomeController>>().Object;
+            var controller = new HomeController(logger, context);
+
+            var loginModel = new LoginModel();
+            controller.ModelState.AddModelError("Username", "Required");
+            controller.ModelState.AddModelError("Password", "Required");
+
+            var result = controller.Index(loginModel) as ViewResult;
+
+            Assert.NotNull(result);
+            Assert.False(controller.ModelState.IsValid);
+        }
+        [Fact]
+        public void Index_Post_WrongCaseUsername_ReturnsView()
+        {
+            var context = GetInMemoryDbContext();
+            var logger = new Mock<ILogger<HomeController>>().Object;
+            var controller = new HomeController(logger, context);
+
+            var loginModel = new LoginModel
+            {
+                Username = "Admin", // wrong case
+                Password = "password123"
+            };
+
+            var result = controller.Index(loginModel) as ViewResult;
+
+            Assert.NotNull(result);
+            Assert.False(controller.ModelState.IsValid);
+        }
+        [Fact]
+        public void Index_Post_WrongPassword_ReturnsView()
+        {
+            var context = GetInMemoryDbContext();
+            var logger = new Mock<ILogger<HomeController>>().Object;
+            var controller = new HomeController(logger, context);
+
+            var loginModel = new LoginModel
+            {
+                Username = "admin",
+                Password = "pass123"
+            };
+
+            var result = controller.Index(loginModel) as ViewResult;
+
+            Assert.NotNull(result);
+            Assert.False(controller.ModelState.IsValid);
+        }
+        //[Fact]
+        //public void Index_Post_NullModel_ReturnsView()
+        //{
+        //    var context = GetInMemoryDbContext();
+        //    var logger = new Mock<ILogger<HomeController>>().Object;
+        //    var controller = new HomeController(logger, context);
+
+        //    LoginModel loginModel = null;
+
+        //    var result = controller.Index(loginModel) as ViewResult;
+
+        //    Assert.NotNull(result);
+        //}
+        [Fact]
+        public void Index_Post_MultipleInvalid_ReturnsViewWithError()
+        {
+            var context = GetInMemoryDbContext();
+            var logger = new Mock<ILogger<HomeController>>().Object;
+            var controller = new HomeController(logger, context);
+
+            var loginModel = new LoginModel
+            {
+                Username = "user1",
+                Password = "1234"
+            };
+
+            var result = controller.Index(loginModel) as ViewResult;
+
+            Assert.NotNull(result);
+            Assert.False(controller.ModelState.IsValid);
+        }
+
 
 
 

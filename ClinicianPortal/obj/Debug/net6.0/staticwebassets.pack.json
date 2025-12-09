@@ -9,24 +9,48 @@
       "PackagePath": "staticwebassets\\Patient-Data\\CSV-Data\\1c0fd777_20251011.csv"
     },
     {
+      "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\Patient-Data\\CSV-Data\\1c0fd777_20251011.png",
+      "PackagePath": "staticwebassets\\Patient-Data\\CSV-Data\\1c0fd777_20251011.png"
+    },
+    {
       "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\Patient-Data\\CSV-Data\\1c0fd777_20251012.csv",
       "PackagePath": "staticwebassets\\Patient-Data\\CSV-Data\\1c0fd777_20251012.csv"
+    },
+    {
+      "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\Patient-Data\\CSV-Data\\1c0fd777_20251012.png",
+      "PackagePath": "staticwebassets\\Patient-Data\\CSV-Data\\1c0fd777_20251012.png"
     },
     {
       "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\Patient-Data\\CSV-Data\\1c0fd777_20251013.csv",
       "PackagePath": "staticwebassets\\Patient-Data\\CSV-Data\\1c0fd777_20251013.csv"
     },
     {
+      "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\Patient-Data\\CSV-Data\\1c0fd777_20251013.png",
+      "PackagePath": "staticwebassets\\Patient-Data\\CSV-Data\\1c0fd777_20251013.png"
+    },
+    {
       "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\Patient-Data\\CSV-Data\\543d4676_20251011.csv",
       "PackagePath": "staticwebassets\\Patient-Data\\CSV-Data\\543d4676_20251011.csv"
+    },
+    {
+      "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\Patient-Data\\CSV-Data\\543d4676_20251011.png",
+      "PackagePath": "staticwebassets\\Patient-Data\\CSV-Data\\543d4676_20251011.png"
     },
     {
       "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\Patient-Data\\CSV-Data\\543d4676_20251012.csv",
       "PackagePath": "staticwebassets\\Patient-Data\\CSV-Data\\543d4676_20251012.csv"
     },
     {
+      "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\Patient-Data\\CSV-Data\\543d4676_20251012.png",
+      "PackagePath": "staticwebassets\\Patient-Data\\CSV-Data\\543d4676_20251012.png"
+    },
+    {
       "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\Patient-Data\\CSV-Data\\543d4676_20251013.csv",
       "PackagePath": "staticwebassets\\Patient-Data\\CSV-Data\\543d4676_20251013.csv"
+    },
+    {
+      "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\Patient-Data\\CSV-Data\\543d4676_20251013.png",
+      "PackagePath": "staticwebassets\\Patient-Data\\CSV-Data\\543d4676_20251013.png"
     },
     {
       "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\Patient-Data\\CSV-Data\\71e66ab3_20251011.csv",
@@ -363,6 +387,10 @@
     {
       "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\wwwroot\\logo.jpg",
+      "PackagePath": "staticwebassets\\logo.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ClinicianPortal.Microsoft.AspNetCore.StaticWebAssets.props",
