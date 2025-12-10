@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Users\\Anil Pande\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal.Tests\\ClinicianPortal.Tests.csproj",
+      "projectUniqueName": "D:\\software eng project\\Software-eng.project\\ClinicianPortal.Tests\\ClinicianPortal.Tests.csproj",
       "projectName": "ClinicianPortal.Tests",
-      "projectPath": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal.Tests\\ClinicianPortal.Tests.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal.Tests\\obj\\",
+      "projectPath": "D:\\software eng project\\Software-eng.project\\ClinicianPortal.Tests\\ClinicianPortal.Tests.csproj",
+      "packagesPath": "C:\\Users\\Anil Pande\\.nuget\\packages\\",
+      "outputPath": "D:\\software eng project\\Software-eng.project\\ClinicianPortal.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anil Pande\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -58,8 +58,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\ClinicianPortal.csproj": {
-              "projectPath": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal\\ClinicianPortal.csproj"
+            "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\ClinicianPortal.csproj": {
+              "projectPath": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\ClinicianPortal.csproj"
             }
           }
         }
@@ -74,7 +74,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net7.0": {
@@ -90,7 +90,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
       }
     }
   },

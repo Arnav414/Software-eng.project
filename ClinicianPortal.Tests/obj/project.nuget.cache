@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "xoMd5DloL7E=",
+  "dgSpecHash": "veZhtMS1Yc4=",
   "success": false,
-  "projectFilePath": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal.Tests\\ClinicianPortal.Tests.csproj",
+  "projectFilePath": "D:\\software eng project\\Software-eng.project\\ClinicianPortal.Tests\\ClinicianPortal.Tests.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "NU1201",
       "level": "Error",
       "message": "Project ClinicianPortal is not compatible with net7.0 (.NETCoreApp,Version=v7.0). Project ClinicianPortal supports: net10.0 (.NETCoreApp,Version=v10.0)",
-      "projectPath": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal.Tests\\ClinicianPortal.Tests.csproj",
-      "filePath": "D:\\Arnav_SE_Project\\Project-Clinician\\ClinicianPortal\\ClinicianPortal.Tests\\ClinicianPortal.Tests.csproj",
+      "projectPath": "D:\\software eng project\\Software-eng.project\\ClinicianPortal.Tests\\ClinicianPortal.Tests.csproj",
+      "filePath": "D:\\software eng project\\Software-eng.project\\ClinicianPortal.Tests\\ClinicianPortal.Tests.csproj",
       "libraryId": "ClinicianPortal",
       "targetGraphs": [
         "net7.0"

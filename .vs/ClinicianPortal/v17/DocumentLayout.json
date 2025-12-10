@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\software eng project\\Software-eng.project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\software eng project\\software-eng.project\\clinicianportal\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\software eng project\\software-eng.project\\clinicianportal\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\software eng project\\software-eng.project\\clinicianportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\software eng project\\software-eng.project\\clinicianportal\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\software eng project\\software-eng.project\\clinicianportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|d:\\software eng project\\software-eng.project\\clinicianportal\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F89942-594A-4CB5-97D1-FDFAF2A47754}|ClinicianPortal\\ClinicianPortal.csproj|solutionrelative:clinicianportal\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ClinicianPortal\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAACsBAAAAAAAAAAAjwDkBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T17:59:21.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicianPortal\\appsettings.json",
+              "ToolTip": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\appsettings.json",
+              "RelativeToolTip": "ClinicianPortal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T17:59:21.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ClinicianPortal\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:59:21.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClinicianPortal\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:59:21.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\Controllers\\Dashboard.cs",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Controllers\\Dashboard.cs",
+              "ToolTip": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\Controllers\\Dashboard.cs",
+              "RelativeToolTip": "ClinicianPortal\\Controllers\\Dashboard.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwE8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:59:21.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ClinicianPortal\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\software eng project\\Software-eng.project\\ClinicianPortal\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ClinicianPortal\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:59:21.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
